@@ -1,8 +1,10 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "users": [
+    { "id": 1, "userName": "bhuvanendra" },
+    { "id": 2, "userName": "ajays" },
+    { "id": 3, "userName": "santhosh" },
+    { "id": 4, "userName": "sunny" },
+    { "id": 5, "userName": "dboss" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
